@@ -1,4 +1,4 @@
-# Advanced Function Parameter Syntax: Default / Rest / Spread
+# Advanced Function Parameter Syntax: Default / Rest / Spread c
 
 ## Learning Goals
 
